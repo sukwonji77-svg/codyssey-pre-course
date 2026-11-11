@@ -66,3 +66,6 @@ Codyssey Volume Success
 ## 6. 프로젝트 저장소
 
 https://github.com/sukwonji77-svg/codyssey-pre-course
+
+## Git Branch Practice
+Practicing Git branches and pull requests.
