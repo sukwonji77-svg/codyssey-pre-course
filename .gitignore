@@ -1,0 +1,13 @@
+# Local terminal logs
+
+logs/
+
+# Credentials and secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Temporary files
+*.tmp
+*~
